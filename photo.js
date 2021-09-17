@@ -28,5 +28,5 @@ class Photo {
 let photo1 = new Photo(8, 10);
 console.log(photo1.toString());
 
-let photo2 = new Photo(20,30);
+let photo2 = new Photo(21,30);
 console.log(photo2.toString());
